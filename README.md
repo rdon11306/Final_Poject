@@ -1,7 +1,7 @@
 # Financial Data Analysis Using Machine Learning
 
 ## Project Overview
-This project aims to analyze stock data by leveraging technical indicators and machine learning models to predict trends. By combining feature engineering with neural network models, we assess and forecast potential price movements.
+This project aims to analyze stock data by leveraging technical indicators and machine learning models to predict trends. By combining feature engineering with neural network models, I can assess and forecast potential price movements.
 
 ## Objectives
 - Extract and calculate meaningful technical indicators from historical stock data.
